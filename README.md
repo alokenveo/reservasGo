@@ -1,1 +1,1 @@
-# Práctica 2 DADM
+# Reservas Go
